@@ -1,1 +1,5 @@
 1.package help to organise the code
+
+2. @GeneratedValue(strategy = GenerationType.IDENTITY) used to create random id but we create it by ourself
+
+3.DTO is used for data transfer object and entity is used for saving data
